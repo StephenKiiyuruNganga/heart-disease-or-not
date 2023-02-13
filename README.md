@@ -1,4 +1,5 @@
 # Predicting heart disease using machine learning
+![HeartbreakAttackGIF](https://user-images.githubusercontent.com/40911055/218486844-b40a67f8-2d6c-4354-9ac4-2badb1f56ddc.gif)
 
 We are going to take the following approach:
 
